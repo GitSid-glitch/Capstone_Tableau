@@ -2,6 +2,8 @@
 
 Use this outline to draft the final presentation before exporting it as `presentation.pdf`.
 
+Suggested timing: 10-12 minutes total, about 45-60 seconds per slide.
+
 ## Slide 1 - Title
 
 - Project title
@@ -23,6 +25,7 @@ Use this outline to draft the final presentation before exporting it as `present
 - Size and coverage
 - Major cleaning steps
 - Data dictionary summary
+- Include one table showing null handling decisions
 
 ## Slide 4 - KPI Framework
 
@@ -37,6 +40,7 @@ Use this outline to draft the final presentation before exporting it as `present
 
 - Statistical method
 - Forecasting / segmentation / root cause findings
+- Mention significance threshold and practical impact, not just p-values
 
 ## Slide 7 - Dashboard Overview
 
@@ -47,6 +51,7 @@ Use this outline to draft the final presentation before exporting it as `present
 ## Slide 8 - Top Insights
 
 - 3-4 high-value decision insights
+- Include at least one insight linked to delivery delay reduction
 
 ## Slide 9 - Recommendations
 
@@ -65,3 +70,9 @@ Use this outline to draft the final presentation before exporting it as `present
 
 - Future extensions
 - Closing summary
+
+## Delivery Tips
+
+- Keep text minimal and use visuals from the Tableau dashboards.
+- Use consistent KPI terminology between report and slides.
+- End each insight slide with one business implication sentence.
