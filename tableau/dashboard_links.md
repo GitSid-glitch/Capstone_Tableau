@@ -11,7 +11,7 @@ Use this file to store the final public links for your Tableau deliverables.
 ## Screenshot Checklist
 
 - Add exported dashboard screenshots to `tableau/screenshots/`
-- Use clear file names such as `executive_view.png` and `regional_drilldown.png`
+- Use clear file names such as `executive_view.jpeg` and `regional_drilldown.jpeg`
 - Make sure screenshots match the final public dashboard
 
 ## Publishing Checklist
