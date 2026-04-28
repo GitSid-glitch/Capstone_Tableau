@@ -10,3 +10,13 @@ This repository contains the data engineering, analysis notebooks, and Tableau h
 - `docs/` - proposal, data dictionary, and teammate handoff notes
 - `reports/` - final report and presentation drafting templates
 - `tableau/` - dashboard link tracker and screenshot assets
+
+## Environment Setup
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Use Python 3.10+ for best compatibility with the notebook workflow.
