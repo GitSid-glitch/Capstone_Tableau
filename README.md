@@ -41,3 +41,9 @@ Use these commands after activating the virtual environment:
 jupyter lab
 python scripts/etl_pipeline.py --raw-dir data/raw --output-dir data/processed
 ```
+
+## Troubleshooting
+
+- If notebook imports fail, confirm `.venv` is activated and reinstall `requirements.txt`.
+- If charts appear empty, rerun `02_cleaning.ipynb` before EDA/statistical notebooks.
+- If Tableau numbers mismatch, regenerate files in `data/processed/` using the ETL script.
