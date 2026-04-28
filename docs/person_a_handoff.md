@@ -4,7 +4,7 @@ This document explains the cleaned outputs produced from the Olist raw files so 
 
 ## Raw Inputs
 
-The original files are stored in [`data/raw/`](/Users/siddharthshukla/Desktop/Everything/Capstone_Tableau/data/raw):
+The original files are stored in `data/raw/`:
 
 - `olist_customers_dataset.csv`
 - `olist_geolocation_dataset.csv`
@@ -30,7 +30,7 @@ The original files are stored in [`data/raw/`](/Users/siddharthshukla/Desktop/Ev
 
 ## Main Outputs
 
-The processed files are stored in [`data/processed/`](/Users/siddharthshukla/Desktop/Everything/Capstone_Tableau/data/processed):
+The processed files are stored in `data/processed/`:
 
 - `olist_orders_master.csv`
   - One row per order
