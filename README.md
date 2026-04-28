@@ -32,3 +32,12 @@ Run notebooks in this sequence to preserve dependencies:
 5. `notebooks/03_eda.ipynb`
 6. `notebooks/04_statistical_analysis.ipynb`
 7. `notebooks/05_final_load_prep.ipynb`
+
+## Quick Run Commands
+
+Use these commands after activating the virtual environment:
+
+```bash
+jupyter lab
+python scripts/etl_pipeline.py --raw-dir data/raw --output-dir data/processed
+```
