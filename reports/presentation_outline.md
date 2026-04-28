@@ -2,6 +2,8 @@
 
 Use this outline to draft the final presentation before exporting it as `presentation.pdf`.
 
+Suggested timing: 10-12 minutes total, about 45-60 seconds per slide.
+
 ## Slide 1 - Title
 
 - Project title
@@ -65,3 +67,9 @@ Use this outline to draft the final presentation before exporting it as `present
 
 - Future extensions
 - Closing summary
+
+## Delivery Tips
+
+- Keep text minimal and use visuals from the Tableau dashboards.
+- Use consistent KPI terminology between report and slides.
+- End each insight slide with one business implication sentence.
