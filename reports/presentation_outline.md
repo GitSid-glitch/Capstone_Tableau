@@ -25,6 +25,7 @@ Suggested timing: 10-12 minutes total, about 45-60 seconds per slide.
 - Size and coverage
 - Major cleaning steps
 - Data dictionary summary
+- Include one table showing null handling decisions
 
 ## Slide 4 - KPI Framework
 
@@ -39,6 +40,7 @@ Suggested timing: 10-12 minutes total, about 45-60 seconds per slide.
 
 - Statistical method
 - Forecasting / segmentation / root cause findings
+- Mention significance threshold and practical impact, not just p-values
 
 ## Slide 7 - Dashboard Overview
 
@@ -49,6 +51,7 @@ Suggested timing: 10-12 minutes total, about 45-60 seconds per slide.
 ## Slide 8 - Top Insights
 
 - 3-4 high-value decision insights
+- Include at least one insight linked to delivery delay reduction
 
 ## Slide 9 - Recommendations
 
