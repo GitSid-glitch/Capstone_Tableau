@@ -6,9 +6,7 @@ Use this file to store the final public links for your Tableau deliverables.
 
 | Item | Link | Notes |
 |---|---|---|
-| Tableau Public Dashboard | _Paste URL here_ | _Main submission link_ |
-| Workbook / Story Link | _Paste URL here if applicable_ | _Optional_ |
-| Demo Recording | _Paste URL here if applicable_ | _Optional_ |
+| Tableau Public Dashboard | https://public.tableau.com/views/OlistE-CommerceAnalyticsDashboard_17773877162720/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link | Main submission link |
 
 ## Screenshot Checklist
 
