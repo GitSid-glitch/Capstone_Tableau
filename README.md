@@ -20,3 +20,15 @@ pip install -r requirements.txt
 ```
 
 Use Python 3.10+ for best compatibility with the notebook workflow.
+
+## Notebook Execution Order
+
+Run notebooks in this sequence to preserve dependencies:
+
+1. `notebooks/01_extraction.ipynb`
+2. `notebooks/02A_data_quality_audit.ipynb`
+3. `notebooks/02_cleaning.ipynb`
+4. `notebooks/02B_join_validation.ipynb`
+5. `notebooks/03_eda.ipynb`
+6. `notebooks/04_statistical_analysis.ipynb`
+7. `notebooks/05_final_load_prep.ipynb`
