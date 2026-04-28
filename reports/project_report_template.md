@@ -36,12 +36,14 @@ Use this outline to draft the final written report before exporting it as `proje
 - Dataset size and coverage
 - Key columns
 - Data quality issues
+- Include the final row counts from `etl_summary.json`
 
 ## 6. Cleaning and Transformation
 
 - Major cleaning steps
 - Assumptions made
 - Output dataset description
+- Mention why `olist_orders_master.csv` and `olist_delivered_orders_master.csv` are both needed
 
 ## 7. KPI Framework
 
@@ -71,6 +73,7 @@ Use this outline to draft the final written report before exporting it as `proje
 ## 11. Key Insights
 
 - 8-12 decision-oriented findings
+- Include at least 2 geography-specific and 2 category-specific insights
 
 ## 12. Recommendations
 
@@ -86,3 +89,4 @@ Use this outline to draft the final written report before exporting it as `proje
 ## 14. Contribution Matrix
 
 - Match this section with GitHub commit and PR history
+- Add a short note on ownership: data prep, analysis, dashboarding, and presentation
